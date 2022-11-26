@@ -5,7 +5,7 @@ function Hero() {
       id="hero"
     >
       <h1 className="text-emerald-300 font-mono">Hi, my name is</h1>
-      <h2 className="text-6xl font-bold mt-10">Rick Astley</h2>
+      <h2 className="text-6xl font-bold mt-10">Anshul Baliga</h2>
       <h3 className="text-4xl text-slate-300 font-bold mt-8">
         I&apos;m never gonna give you up
       </h3>

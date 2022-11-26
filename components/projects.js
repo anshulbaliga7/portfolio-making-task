@@ -8,7 +8,7 @@ function Projects(props) {
       id="projects"
     >
       <h2 className="mb-20 whitespace-nowrap leading-[1.1] font-semibold text-slate-300 text-step-5">
-        Projects
+        Projects in the making
       </h2>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">

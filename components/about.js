@@ -25,11 +25,9 @@ function About() {
       <div className="content__container flex gap-12 flex-col sm:flex-row">
         <div className="content__left">
           <div className="content__aboutme">
-            <p className="">
-              Ut enim nisi temporibus qui ut ab qui laboriosam. Eveniet dolore
-              et laborum iure voluptatem perferendis. Accusamus eveniet fugit
-              neque. Et deserunt aut necessitatibus praesentium sapiente
-              eveniet.
+            <p className="font-bold">
+              Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,
+              consectetur, adipisci velit...
             </p>
             <p className="mt-4">
               Ut enim nisi temporibus qui ut ab qui laboriosam. Eveniet dolore
@@ -51,7 +49,7 @@ function About() {
         </div>
 
         <div className="content__right">
-          <img src="/rick.gif" className="w-full sm:w-3/4" />
+          <img src="/rick.gif" className="w-full sm:w-1/2" />
         </div>
       </div>
       {/* ends here */}
