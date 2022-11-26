@@ -1,6 +1,6 @@
 function ProjectCard(props) {
   return (
-    <div className="bg-slate-800 p-4 rounded-sm">
+    <div className="bg-slate-800 font-bold p-4 rounded-sm">
       {props.project.is_featured ? (
         <p className="text-emerald-300 font-mono text-sm">Featured Project</p>
       ) : (
