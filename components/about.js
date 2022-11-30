@@ -13,8 +13,8 @@ function About() {
         <div className="content__left">
           <div className="content__aboutme">
             <p className="font-semibold">
-              Hello!My name is Anshul Baliga, but you can call me Bali. I'm a
-              sophomore student at the Department of Computer Science, PESU.I
+              Hello!My name is Anshul Baliga, but you can call me Bali. I&apos;m
+              a sophomore student at the Department of Computer Science, PESU.I
               really like understanding stuff at a very intuitive level, so much
               so that I could boil any idea down to some very easy to grasp
               thoughts. I always try my best to implement that in everything I
@@ -25,9 +25,9 @@ function About() {
             <p className="mt-4 font-semibold">
               Some things I have really enjoyed learning are Automata Theory in
               Computer Science, The Special Theory of Relativity and Graph
-              Theory. When I’m not being crushed by coursework, I like to spend
-              time playing football, listening to music, playing the piano or
-              gaming with my friends!
+              Theory. When I&apos;m not being crushed by coursework, I like to
+              spend time playing football, listening to music, playing the piano
+              or gaming with my friends!
             </p>
           </div>
 

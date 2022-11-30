@@ -7,7 +7,7 @@ function Hero() {
       <h1 className="text-emerald-300 font-mono">Hi, my name is</h1>
       <h2 className="text-6xl font-bold mt-10">Anshul Baliga</h2>
       <h3 className="text-4xl text-slate-300 font-bold mt-8">
-        "C++ is an octopus made by nailing extra legs onto a dog"
+        &quot;C++ is an octopus made by nailing extra legs onto a dog&quot;
       </h3>
       <p className="max-w-4xl mt-2 text-slate-300">
         I&apos;m a sophomore student at the Department of Computer Science PESU.
