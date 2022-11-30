@@ -12,18 +12,25 @@
 export const projects = [
   {
     title: "Portfolio Project using React",
-    desc: "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain.",
-    tags: ["react", "python"],
+    desc: "Task to build a short but good Portfolio using React JS and it's wide functionalities.",
+    tags: ["react", "javascript"],
     github: "https://github.com/anshulbaliga7/portfolio-making-task",
     website: "https://google.com",
     is_featured: true,
   },
   {
-    title: "News App using React Native",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    tags: ["react", "python"],
-    github: "https://github.com/anshulbaliga7/portfolio-making-task",
-    website: "https://google.com",
-    is_featured: false,
+    title: "Real time Chat-App using React",
+    desc: "A chatting app which helps you to message another person using the same website at the same time. It is an highly efficient method of communication and all the previously typed messages get stored too.",
+    tags: ["react", "socket"],
+    github: "https://github.com/anshulbaliga7/realtime-chat-app",
+    website: "https://realtime-chat-app-opal.vercel.app/",
+    is_featured: true,
+  },
+  {
+    title: "Gamble Room using Javascript",
+    desc: "A live gambling-room simulation with web sockets and JS. A creator hosts an event, and people join in and bet on the odds of the outcomes of the event.",
+    tags: ["socket", "javascript"],
+    github: "https://github.com/anshulbaliga7/GambleRoom",
+    is_featured: true,
   },
 ];
