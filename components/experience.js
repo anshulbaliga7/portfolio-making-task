@@ -14,7 +14,7 @@ function Experiences() {
         <div
             className='py-20 px-8 max-w-7xl mx-auto flex flex-col justify-center'
             id='experience'>
-            <h2 className='mb-20 whitespace-nowrap leading-[1.1] font-semibold text-slate-300 text-step-5'>
+            <h2 className='mb-20 whitespace-nowrap leading-[1.1] font-bold text-slate-300 text-step-5'>
                 Experiences
             </h2>
             <div className='flex md:flex-row flex-col gap-10'>

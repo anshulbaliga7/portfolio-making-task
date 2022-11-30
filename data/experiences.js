@@ -1,42 +1,21 @@
 export const experiences = [
     {
-        title: 'Software Developer Engineer 1',
-        company: 'Company 1',
-        date: 'May 2018 - Present',
+        title: 'Intern',
+        company: 'Aajeevika',
+        date: 'October 2019-November 2019',
         description: [
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+            'Helped in the technical support and building of the website for Aajeevika.',
+            'Aided both the technical and non-technical members in their tasks.'
+
         ],
     },
     {
-        title: 'Software Developer Engineer 1',
-        company: 'Company 2',
-        date: 'May 2018 - Present',
+        title: 'Summer camp',
+        company: 'Infosys',
+        date: 'June 2018 - July 2018',
         description: [
-            'Write modern, performant, maintainable code for a diverse array of client and internal projects',
-            'Write modern, performant, maintainable code for a diverse array of client and internal projects',
-            'Write modern, performant, maintainable code for a diverse array of client and internal projects',
-        ],
-    },
-    {
-        title: 'Content Curator',
-        company: 'Company 3',
-        date: 'May 2018 - Present',
-        description: [
-            'Its made with finest of materials and un compromised quality',
-            'Its made with finest of materials and un compromised quality',
-            'Its made with finest of materials and un compromised quality',
-        ],
-    },
-    {
-        title: 'Director of South Asia',
-        company: 'Company 4',
-        date: 'May 2018 - Present',
-        description: [
-            'Its made with finest of materials and un compromised quality',
-            'Its made with finest of materials and un compromised quality',
-            'Its made with finest of materials and un compromised quality',
+            'Got selected among 100 students upon solving a technical based test',
+            'Participated in the summer camp which boosted my technological interest and knowledge.'       
         ],
     },
 ];
