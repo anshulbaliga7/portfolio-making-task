@@ -15,7 +15,8 @@ export const projects = [
     desc: "Task to build a short but good Portfolio using React JS and it's wide functionalities.",
     tags: ["react", "javascript"],
     github: "https://github.com/anshulbaliga7/portfolio-making-task",
-    website: "https://google.com",
+    website:
+      "https://portfolio-making-task-dmlsdz65b-anshulbaliga7.vercel.app/",
     is_featured: true,
   },
   {
